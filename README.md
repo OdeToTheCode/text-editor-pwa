@@ -14,5 +14,4 @@ You can use this application to type localy on a machine without internet connec
 
 ## Links
 Github Account: [OdeToTheCode](https://github.com/OdeToTheCode/)
-Video: [Social API Video](https://drive.google.com/file/d/1OZHA3Sp6PJsEnB9qvjILPSCPQr1nkWNX/view?usp=sharing)
-
+Deployed site: [Launched Text Editor site](https://text-editor-pwa-assinment.herokuapp.com)
